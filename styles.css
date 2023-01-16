@@ -79,6 +79,7 @@ nav li {
     font-size: 16px;
     color: #727272;
     margin-bottom: 33px;
+    line-height: 26px;
 }
 
 .images {
@@ -127,6 +128,7 @@ nav li {
     font-size: 16px;
     color: #727272;
     margin-bottom: 32px;
+    
 }
 
 .quick-list-2 {
@@ -160,6 +162,7 @@ nav li {
     font-size: 16px;
     color: #727272;
     margin-bottom: 30px;
+    line-height: 26px;
 }
 
 .feature{
@@ -193,6 +196,7 @@ nav li {
     font-weight: 400;
     font-size: 16px;
     color: #727272;
+    line-height: 26px;
     
    
 }
@@ -211,7 +215,53 @@ nav li {
     padding: 30px 42px;   
     
 }
+.facts{
+   padding: 130px 240px 0 240px; 
 
+
+
+}
+
+.facts-head{
+    font-weight: 700;
+font-size: 45px;
+color: #131313;
+margin-bottom: 24px;
+}
+
+.facts-pera{
+    font-weight: 400;
+font-size: 16px;
+color: #727272;
+line-height: 26px;
+}
+.boxes{
+    display: flex;
+    
+    justify-content: space-evenly;
+    padding: 0 166px;
+    
+}
+.box{
+    border: 1px solid #FF900E;
+border-radius: 8px;
+padding: 36px;
+text-align: center;
+margin-top: 100px;
+}
+
+.number-text{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #727272;
+}
+.number{
+    font-weight: 600;
+font-size: 45px;
+line-height: 53px;
+color: #424242;
+}
 
 
 
