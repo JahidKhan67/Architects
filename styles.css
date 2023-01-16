@@ -173,7 +173,8 @@ nav li {
     margin-bottom: 0px;
     display: flex;
 
-    width: 1440px;
+    max-width: 1440px;
+    max-height: 1059px;
     justify-items: center;
     align-items: center;
 
@@ -299,40 +300,25 @@ padding: 0 689px;
     filter: grayscale();
 }
 
+.footer-box{
+    background: #FFF4E7;
+border-radius: 8px;
+padding: 39px 410px;
 
+}
+.footer-text{
+    text-align: center;
+    justify-content: center;
+    font-weight: 400;
+font-size: 20px;
+color: #424242;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
+footer{
+    max-width: 1440px;
+    margin: auto;
+    margin-bottom: 216px;
+}
 /* orange buttons */
 .btn-primary {
     background: #FF900E;
